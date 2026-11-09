@@ -117,5 +117,5 @@
 
 | 채널 | 링크 |
 |---|---|
-| 인프런 멘토링 | (개설 후 링크 추가) |
-| LinkedIn | (링크 추가) |
+| 인프런 멘토링 | (개설 후 링크 추가 예정입니다) |
+| LinkedIn | https://www.linkedin.com/in/jason-youngseon-ryu |
